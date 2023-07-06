@@ -8,7 +8,7 @@ var productos = [
     descripcion: "Esta es la descripción del Producto 1",
     stock: 10,
     precio: 19.99,
-    imagen: "../assets/img/imgtest002.png",
+    imagen: "../assets/img/img001.png",
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ var productos = [
     descripcion: "Esta es la descripción del Producto 2",
     stock: 5,
     precio: 9.99,
-    imagen: "../assets/img/imgtest005.png",
+    imagen: "../assets/img/img002.png",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ var productos = [
     descripcion: "Esta es la descripción del Producto 3",
     stock: 2,
     precio: 29.99,
-    imagen: "../assets/img/imgtest006.png",
+    imagen: "../assets/img/img003.png",
   },
   {
     id: 4,
@@ -32,7 +32,7 @@ var productos = [
     descripcion: "Esta es la descripción del Producto 4",
     stock: 0,
     precio: 39.99,
-    imagen: "../assets/img/imgtest007.png",
+    imagen: "../assets/img/img004.png",
   },
   {
     id: 5,
@@ -40,7 +40,7 @@ var productos = [
     descripcion: "Esta es la descripción del Producto 5",
     stock: 1,
     precio: 49.99,
-    imagen: "../assets/img/imgtest005.png",
+    imagen: "../assets/img/img005.png",
   },
   {
     id: 6,
@@ -48,7 +48,7 @@ var productos = [
     descripcion: "Esta es la descripción del Producto 6",
     stock: 10,
     precio: 59.99,
-    imagen: "../assets/img/imgtest006.png",
+    imagen: "../assets/img/img006.png",
   },
 ];
 
